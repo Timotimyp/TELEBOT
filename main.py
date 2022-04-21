@@ -5,7 +5,7 @@ import pymorphy2
 import wikipedia, re
 morph = pymorphy2.MorphAnalyzer()
 wikipedia.set_lang("ru")
-
+#fkhsfkhs
 
 bot = telebot.TeleBot('5148061327:AAG26jFE1l_OuHIS2zDAqggtFdpi34vTBMg')
 
